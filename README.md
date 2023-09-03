@@ -1,11 +1,11 @@
 ## This is a quick fork to address issue 146
-Since the github documentation is very poor and I literally can't understand how to push a > 25 MB release, I won't attach a release here. Sorry about that.
-
 This code is meant to fix the following issue: https://github.com/Zerbu/Mod-Constructor-5/issues/146
 
 The code implements the following pull request to fix the mentioned issue: https://github.com/Zerbu/Mod-Constructor-5/pull/147
 
 You can compile the code yourself and you should get fixed files, then you just need to copy them on top of latest Zerbu's Release.
+
+Otherwise, you can get the release here: https://github.com/SheMelody/Mod-Constructor-5/releases
 
 ## Original information
 Download the latest version from Releases: https://github.com/Zerbu/Mod-Constructor-5/releases
